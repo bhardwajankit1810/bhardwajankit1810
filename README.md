@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kumar
 - 👀 I’m interested in vlsi and ml.
-- 🌱 I’m currently learning dsa in c++ and my next target is ml.
+- 🌱 I’m currently learning dsa in c++ and my next target is vlsi.
 - 💞️ I’m looking to collaborate on electronic or any other feild related to c++.
 - 📫 How to reach me , mail me on bhardwajankit1810@gmail.com
 - 😄 Pronouns: he/him
